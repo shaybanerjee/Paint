@@ -1,4 +1,4 @@
-<h1> Assignment 2: </h1> 
+<h1> Project Description: </h1> 
 This is a sketching program created to better understand MVC in JAVA. 
 
 <ul>
@@ -25,5 +25,4 @@ Developed in java using jdk-10.0.1.
 <b> Palette: </b> 6 colors + Custom color option + various storke thickness choices 
 <b> Canvas: </b> Can draw freely strokes of different sizes, and various colors.  
 <b> Playback: </b> Can use scrubber or buttons to go forward and backward animating the drawings on the canvas. 
-<b> Enhancement: </b> Ability to play animations both forward and backward. (5 marks). 
-<b> Dev environment: </b> Linux Student Environment.  </br>
+<b> Enhancement: </b> Ability to play animations both forward and backward.
