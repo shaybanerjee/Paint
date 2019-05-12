@@ -14,7 +14,7 @@ This is a sketching program created to better understand MVC in JAVA.
 The application can be run using ./gradlew run.
 
 <h1> Enhancements: </h1>  
-I chose to do "Ability to play animations both forward and backward (5 marks)" as an enhancement. 
+Ability to play animations both forward and backward
 
 <h1> Development Env </h1> 
 Developed in java using jdk-10.0.1. 
